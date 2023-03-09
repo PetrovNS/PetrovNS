@@ -2,6 +2,11 @@
 	<h1>Hi there, I'm Nikita</h1>
 	<h3>QA Automation Engineer</h3>
 </div>
+<div id="socials" align="center">
+	<a href="https://t.me/Nell1996">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
 <!--
 **PetrovNS/PetrovNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
