@@ -7,8 +7,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-## Languages and tools
-<div id="tools" align="center">
+### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="c#" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".net" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/SeleniumHQ/heroku-selenium/6fe2098a074d48d15678c63fd93da02ed9c9c366/selenium-green.svg" title="selenium" width="40" height="40"/>&nbsp;
@@ -19,7 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-</div>
 <!--
 **PetrovNS/PetrovNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
