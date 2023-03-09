@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Nikita</h1>
+	<h3>QA Automation Engineer</h3>
+</div>
 
 <!--
 **PetrovNS/PetrovNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
